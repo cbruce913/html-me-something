@@ -1,0 +1,32 @@
+header{
+   text-align:center;
+}
+
+.help_links{
+   text-align:left;
+}
+
+#Galactic{
+   background-color:silver;
+}
+
+#Raspberry{
+   background-color:magenta;
+}
+
+#Haze{
+   background-color:grey;
+}
+
+#Ducks{
+   background-color:darkgreen;
+}
+
+#Speed{
+   background-color:crimson;
+}
+
+#CCE{
+   border-style:solid;
+   border-color:red yellow green blue;
+}
