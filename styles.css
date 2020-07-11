@@ -2,6 +2,10 @@ header{
    text-align:center;
 }
 
+body{
+   background-color:whitesmoke;
+}
+
 img{
    padding:10px;
 }
@@ -32,10 +36,16 @@ figure{
    font-size:17px;
 }
 
+section{
+   padding-left:20px;
+   padding-right:20px;
+}
+
 #JMR_logo{
    display:block;
    margin-left:auto;
    margin-right:auto;
+   padding:0px;
 }
 
 #Marble_League_logo{
@@ -49,39 +59,102 @@ figure{
    font-size:24px
 }
 
-.left{
-   box-align:left;
-}
-
-.right{
-   box-align:right;
-}
-
 #Galactic{
    background-color:silver;
-}
-
-.members_alt{
-   border:black;
+   border:5px solid tan;
+   color:brown;
 }
 
 #Raspberry{
    background-color:magenta;
+   border: 5px solid pink;
+   color:darkred;
 }
 
 #Haze{
    background-color:lightgrey;
+   border: 5px solid white;
+   color:black;
 }
 
 #Ducks{
    background-color:darkgreen;
+   border: 5px solid brown;
+   color:tan;
 }
 
 #Speed{
    background-color:crimson;
+   border: 5px solid goldenrod;
+   color:goldenrod;
 }
 
 #CCE{
+   border-width:5px;
    border-style:solid;
    border-color:red yellow green blue;
+   color:black;
+}
+
+#Ocean{
+   background-color:darkblue;
+   border: 5px solid blue;
+   color:lightblue
+}
+
+#Chaos{
+   border-width:5px;
+   border-style:solid;
+   border-color:red yellow blue yellow;
+   color:black;
+}
+
+#Thunder{
+   background-color:blue;
+   border: 5px solid rgba(255, 255, 0, 0.836);
+   color:rgba(255, 255, 0, 0.836);
+}
+
+#Yellow{
+   background-color:yellow;
+   border: 5px solid whitesmoke;
+   color:black;
+}
+
+#Bees{
+   background-color:gold;
+   border: 5px solid brown;
+   color:brown;
+}
+
+#Orange{
+   background-color:orange;
+   border: 5px solid whitesmoke;
+   color:whitesmoke;
+}
+
+#Wisps{
+   background-color:blue;
+   border: 5px solid black;
+   color:black;
+}
+
+#Minty{
+   background-color:mediumspringgreen;
+   border: 5px solid;
+   border-color:brown blue;
+   color:blue;
+}
+
+#Momo{
+   background-color:darkgreen;
+   border: 5px solid;
+   border-color:blue yellow;
+   color:yellowgreen;
+}
+
+#Buzz{
+   background-color:black;
+   border: 5px solid yellow;
+   color:yellow;
 }
